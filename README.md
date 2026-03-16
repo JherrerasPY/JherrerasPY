@@ -1,1 +1,1 @@
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mG7wGzeQdO)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mG7wGzeQdO?theme=dark&font=Exo%202&ext=heatmap)
